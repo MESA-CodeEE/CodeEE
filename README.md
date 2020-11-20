@@ -19,7 +19,6 @@ Code.EE is a one-day coding event organized by MESA which aimed to bring a brand
 #### Stage 2
 
 - Consist of 1 final question which is used to determine the winners, the winners are chosen based on a 1st come 1st serve basis.
-- Participant are required to submit
-  > - A Google form consisting of
+- Participant are required to submit a Google form (you need to find where is the Google Form) consisting of
   > - The Final required ans of Stage 2
   > - Spectrum Upload Screenshots (as prove of completing first stage)
