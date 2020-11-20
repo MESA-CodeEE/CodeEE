@@ -10,7 +10,7 @@ Code.EE is a one-day coding event organized by MESA which aimed to bring a brand
 - Each question will provide a mystery alphabet which will be needed in stage 2.
 - Students registered for Programming 1 are required to submit all codes to Spectrum/Email
 
-###Important Reference for Stage 1
+### Important Reference for Stage 1
 
 # Alphabet Reference
 
@@ -26,16 +26,6 @@ Code.EE is a one-day coding event organized by MESA which aimed to bring a brand
 |   h    |  A8  |     |   r    |  B9  |     |    /   |  D1  |
 |   i    |  A9  |     |   s    |  C1  |     |    :   |  D2  |
 |   j    |  B1  |     |   t    |  C2  |     |    ?   |  D3  |
-
-
-
-
- 
-
-
-
-
-
 
 
 #### Stage 2
