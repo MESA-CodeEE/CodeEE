@@ -1,4 +1,6 @@
-### Second Task
+## First Challenge
+
+### Task 2
 #### __Instructions:__
 The image shown below is an encrypted string. You are required to decrypt the the code by using the alphabet reference provided.
 
