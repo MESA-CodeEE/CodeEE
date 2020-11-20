@@ -11,3 +11,7 @@ Participants are required to import the library in github <https://blabla> which
 ### Second Task
 #### __Instructions:__
 The following string is encoded. Please decode the string using the table given below. Hint: Use for loop and array.
+![Alphabet Reference](https://user-images.githubusercontent.com/63856945/99754892-5c29ea80-2b24-11eb-8fd1-f14e56c5457d.jpg)
+
+### Third Task
+#### __Instructions:__
