@@ -1,6 +1,6 @@
 ## First challenge
 
-### First Task
+### Task 1
 #### __Instructions:__
 Please import a library named “Alphabet.h” and call a function named “showValue”. 
 
