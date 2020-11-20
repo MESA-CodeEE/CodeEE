@@ -1,4 +1,6 @@
-### Third Task
+## First Challenge
+
+### Task 3
 #### __Instructions:__
 `array1 = [x,x,x,x,x,x]`
 `array2= [x,x,x,x,x]`
