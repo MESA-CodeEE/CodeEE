@@ -1,5 +1,3 @@
-# Challenge instructions:
-
 ## First challenge
 
 ### First Task
