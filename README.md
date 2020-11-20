@@ -14,7 +14,29 @@ Code.EE is a one-day coding event organized by MESA which aimed to bring a brand
 
 # Alphabet Reference
 
-![Alphabet Reference](https://user-images.githubusercontent.com/63856945/99754892-5c29ea80-2b24-11eb-8fd1-f14e56c5457d.jpg)
+| Letter | Code |     | Letter | Code |     | Letter | Code |        
+|  :-:   | :-:  | :-: |   :-:  | :-:  | :-: |   :-:  | :-:  |
+|   a    |  A1  |     |   k    |  B2  |     |    u   |  C3  |
+|   b    |  A2  |     |   l    |  B3  |     |    v   |  C4  |
+|   c    |  A3  |     |   m    |  B4  |     |    w   |  C5  |
+|   d    |  A4  |     |   n    |  B5  |     |    x   |  C6  |
+|   e    |  A5  |     |   o    |  B6  |     |    y   |  C7  |
+|   f    |  A6  |     |   p    |  B7  |     |    z   |  C8  |
+|   g    |  A7  |     |   q    |  B8  |     |    .   |  C9  |
+|   h    |  A8  |     |   r    |  B9  |     |    /   |  D1  |
+|   i    |  A9  |     |   s    |  C1  |     |    :   |  D2  |
+|   j    |  B1  |     |   t    |  C2  |     |    ?   |  D3  |
+
+
+
+
+ 
+
+
+
+
+
+
 
 #### Stage 2
 
