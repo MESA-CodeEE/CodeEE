@@ -1,13 +1,13 @@
 ## First Challenge
 
 ### Task 2
-#### __Instructions:__
+
+#### **Instructions:**
+
 The image shown below is an encrypted string. You are required to decrypt the the code by using the alphabet reference provided.
 
 ![Task1 CodeEE](https://user-images.githubusercontent.com/63856945/99755412-b4adb780-2b25-11eb-86c9-7bdbe31d069f.png)
 
+C5,A5,B3,A3,B6,B4,A5,D4,C2,B6,D4,A3,B6,A4,A5,C9,A5,A5,C9,D4,C5,A5,D4,C5,B6,C3,B3,A4,D4,B3,A9,B2,A5,D4,C2,B6,D4,C1,A1,C7,D4,C2,A8,A1,B5,B2,D4,C7,B6,C3,D4,A6,B6,B9,D4,B1,B6,A9,B5,A9,B5,A7,D4,C2,A8,A5,D4,A3,B6,B4,B7,A5,C2,A9,C2,A9,B6,B5,C9,A3,B6,B5,A7,B9,A1,C2,C3,B3,A1,C2,A9,B6,B5,C1,D4,A6,B6,B9,D4,A4,A5,A3,B9,C7,B7,C2,A9,B5,A7,D4,C2,A8,A9,C1,D4,B4,A5,C1,C1,A1,A7,A5,C9,B7,B3,A5,A1,C1,A5,D4,B9,A5,B4,A5,B4,A2,A5,B9,D4,C2,B6,D4,B3,A9,B2,A5,D4,B4,A5,C1,A1,D4,A6,A1,A3,A5,A2,B6,B6,B2,D4,A1,B5,A4,D4,A9,B5,C1,C2,A1,A7,B9,A1,B4,D4,B7,A1,A7,A5,C9,D4,A6,B6,B9,D4,B5,B6,C5,D4,B7,B3,A5,A1,C1,A5,D4,B7,B9,B6,A3,A5,A5,A4,D4,C2,B6,D4,C2,A8,A5,D4,A6,B6,B3,B3,B6,C5,A9,B5,A7,D4,C5,A5,A2,C1,A9,C2,A5,C9,D4,C5,A1,C2,A3,A8,D4,C2,A8,A5,D4,C4,A9,A4,A5,B6,D4,A1,C2,D4,C2,A8,A5,D4,A6,B6,B3,B3,B6,C5,A9,B5,A7,D4,B3,A9,B5,B2,D4,D4,D4,D4,D4,D4,D4,D4,A1,B3,B7,A8,A1,A2,A5,C2,D4,A9,C1,D4,C5,D4,D4,D4,D4,D4,D4,D4,D4,A8,C2,C2,B7,C1,D2,D1,D1,C5,C5,C5,C9,C7,B6,C3,C2,C3,A2,A5,C9,A3,B6,B4
+
 The second alphabet will be in the decrypted string. Hint: Use for loop and array.
-
-
-
-
