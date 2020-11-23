@@ -7,25 +7,26 @@ Code.EE is a one-day coding event organized by MESA which aimed to bring a brand
 #### Stage 1
 
 - Consist of 5 different questions which needs to be completed by programming 1 students (seniors can help out) for their assignment marks
+- Participants are required to use CodeBlock as IDE.
 - Each question will provide a mystery alphabet which will be needed in stage 2.
-- Students registered for Programming 1 are required to submit all codes to Spectrum/Email
+- Students registered for Programming 1 are required to submit all codes (zip file) to Spectrum/Email
 
 ### Important Reference for Stage 1
 
 # Alphabet Reference
 
-| Letter | Code |     | Letter | Code |     | Letter | Code |        
-|  :-:   | :-:  | :-: |   :-:  | :-:  | :-: |   :-:  | :-:  |
-|   a    |  A1  |     |   k    |  B2  |     |    u   |  C3  |
-|   b    |  A2  |     |   l    |  B3  |     |    v   |  C4  |
-|   c    |  A3  |     |   m    |  B4  |     |    w   |  C5  |
-|   d    |  A4  |     |   n    |  B5  |     |    x   |  C6  |
-|   e    |  A5  |     |   o    |  B6  |     |    y   |  C7  |
-|   f    |  A6  |     |   p    |  B7  |     |    z   |  C8  |
-|   g    |  A7  |     |   q    |  B8  |     |    .   |  C9  |
-|   h    |  A8  |     |   r    |  B9  |     |    /   |  D1  |
-|   i    |  A9  |     |   s    |  C1  |     |    :   |  D2  |
-|   j    |  B1  |     |   t    |  C2  |     |    ?   |  D3  |
+|    | Letter | Code |       | Letter | Code |       | Letter | Code |        
+| :-:|  :-:   | :-:  | :-:   |   :-:  | :-:  | :-:   |   :-:  | :-:  |
+|  0 |   a    |  A1  |  10   |   k    |  B2  |   20  |    u   |  C3  |
+|  1 |   b    |  A2  |  11   |   l    |  B3  |   21  |    v   |  C4  |
+|  2 |   c    |  A3  |  12   |   m    |  B4  |   22  |    w   |  C5  |
+|  3 |   d    |  A4  |  13   |   n    |  B5  |   23  |    x   |  C6  |
+|  4 |   e    |  A5  |  14   |   o    |  B6  |   24  |    y   |  C7  |
+|  5 |   f    |  A6  |  15   |   p    |  B7  |   25  |    z   |  C8  |
+|  6 |   g    |  A7  |  16   |   q    |  B8  |   26  |    .   |  C9  |
+|  7 |   h    |  A8  |  17   |   r    |  B9  |   27  |    /   |  D1  |
+|  8 |   i    |  A9  |  18   |   s    |  C1  |   28  |    :   |  D2  |
+|  9 |   j    |  B1  |  19   |   t    |  C2  |   29  |    ?   |  D3  |
 
 
 #### Stage 2
