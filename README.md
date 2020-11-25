@@ -27,18 +27,17 @@ Code.EE is a one-day coding event organized by MESA which aimed to bring a brand
 
 ## Competition Instructions:
 
-NOTE FOR PROGRAMMING 1 STUDENTS: USE CODEBLOCK FOR ALL TASKS. CREATE A PROJECT FOR EACH TASK AND UPLOAD TO SPECTRUM. NAME EACH FILE BY GROUP NAME AND TASK NUMBER.
-
-FOR EG: GROUP1-TASK1,GROUP1-TASK2,GROUP1-TASK3,GROUP1-TASK4,GROUP1-TASK5.
-
-ASSIGN ONLY 1 PERSON TO SUBMIT.
-
 ### Stage 1
 
 - Consist of 5 different questions which needs to be completed by programming 1 students (seniors can help out) for their assignment marks
 - Participants are required to use CodeBlock as IDE.
 - Each question will provide a mystery alphabet which will be needed in stage 2.
+
+NOTE FOR PROGRAMMING 1 STUDENTS: USE CODEBLOCK FOR ALL TASKS. 
 - Students registered for Programming 1 are required to submit all codes (zip file) to Spectrum/Email
+- CREATE A PROJECT FOR EACH TASK AND UPLOAD TO SPECTRUM. NAME EACH FILE BY GROUP NAME AND TASK NUMBER.
+- FOR EG: GROUP1-TASK1,GROUP1-TASK2,GROUP1-TASK3,GROUP1-TASK4,GROUP1-TASK5.
+- ASSIGN ONLY 1 PERSON TO SUBMIT.
 
 ### Important Reference for Stage 1
 
