@@ -41,5 +41,5 @@ ASSIGN ONLY 1 PERSON TO SUBMIT.
 
 - Consist of 1 final question which is used to determine the winners, the winners are chosen based on a 1st come 1st serve basis.
 - Participant are required to submit a Google form (you need to find where is the Google Form) consisting of
-  > - All hint gathered from Stage 1
-  > - Spectrum Upload Screenshots (as prove of completing first stage)
+  > - All hints gathered from Stage 1
+  > - Spectrum Upload Screenshot (as prove of completing first stage)
