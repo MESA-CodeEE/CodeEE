@@ -17,9 +17,9 @@ ASSIGN ONLY 1 PERSON TO SUBMIT.
 - Each question will provide a mystery alphabet which will be needed in stage 2.
 - Students registered for Programming 1 are required to submit all codes (zip file) to Spectrum/Email
 
-## Important Reference for Stage 1
+### Important Reference for Stage 1
 
-## Alphabet Reference
+### Alphabet Reference
 
 |     | Letter | Code |     | Letter | Code |     | Letter | Code |
 | :-: | :----: | :--: | :-: | :----: | :--: | :-: | :----: | :--: |
@@ -35,7 +35,7 @@ ASSIGN ONLY 1 PERSON TO SUBMIT.
 |  9  |   j    |  B1  | 19  |   t    |  C2  | 29  |   ?    |  D3  |
 |     |        |      |     |        |      | 30  |        |  D4  |
 
-30th = D4 = spacebar
+30 = D4 = spacebar
 
 ### Stage 2
 
