@@ -1,6 +1,6 @@
 # Code.EE
 
-Code.EE is a one-day coding event organized by MESA which aimed to bring a brand new coding experience to the participants. Participants are required to finish 2 stages of the competition in which the first stage will be provided on MESA’s Github. All of the questions will provide the participants with external clues that will lead to answering the 2nd Stage of the competition
+Code.EE is a one-day coding event organized by MESA which aimed to bring a brand new coding experience to the participants. Participants are required to finish 2 stages of the competition in which the first stage will be provided on MESA’s Github. All of the questions will provide the participants with external clues that will lead to answering the 2nd Stage of the competition.
 
 ## Competition Instructions:
 
@@ -9,14 +9,14 @@ FOR EG: GROUP1-TASK1,GROUP1-TASK2,GROUP1-TASK3,GROUP1-TASK4,GROUP1-TASK5.
 
 ASSIGN ONLY 1 PERSON TO SUBMIT.
 
-#### Stage 1
+### Stage 1
 
 - Consist of 5 different questions which needs to be completed by programming 1 students (seniors can help out) for their assignment marks
 - Participants are required to use CodeBlock as IDE.
 - Each question will provide a mystery alphabet which will be needed in stage 2.
 - Students registered for Programming 1 are required to submit all codes (zip file) to Spectrum/Email
 
-### Important Reference for Stage 1
+## Important Reference for Stage 1
 
 ## Alphabet Reference
 
@@ -36,7 +36,7 @@ ASSIGN ONLY 1 PERSON TO SUBMIT.
 
 30th = D4 = spacebar
 
-#### Stage 2
+### Stage 2
 
 - Consist of 1 final question which is used to determine the winners, the winners are chosen based on a 1st come 1st serve basis.
 - Participant are required to submit a Google form (you need to find where is the Google Form) consisting of
