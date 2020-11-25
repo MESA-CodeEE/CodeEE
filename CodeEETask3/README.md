@@ -9,4 +9,4 @@
 
 Based on the two arrays given, participants are required to find the intersecting values and find the difference `difference` between them. Refer `difference` to the alphabet reference above to obtain the third alphabet.
 
-Reference to Alphabet table.
+Reference to 'Alphabet reference table' for the hint.
