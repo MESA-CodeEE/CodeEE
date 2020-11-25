@@ -2,6 +2,19 @@
 
 Code.EE is a one-day coding event organized by MESA which aimed to bring a brand new coding experience to the participants. Participants are required to finish 2 stages of the competition in which the first stage will be provided on MESA’s Github. All of the questions will provide the participants with external clues that will lead to answering the 2nd Stage of the competition.
 
+## Agenda:
+
+9 am : Event start / Join Microsoft Teams
+9.15am : Opening Ceremony
+930am : “The Cloud, the edge and the data” by Annie and Mei Yan
+1030am : “Journey into Software Engineering and Google” by Jecelyn
+11am :Competition briefing
+1115am : Competition starts
+1pm : Lunch
+315pm : Competition Ends
+320pm : Judging session
+430pm : Closing Ceremony
+
 ## Competition Instructions:
 
 NOTE FOR PROGRAMMING 1 STUDENTS: USE CODEBLOCK FOR ALL TASKS. CREATE A PROJECT FOR EACH TASK AND UPLOAD TO SPECTRUM. NAME EACH FILE BY GROUP NAME AND TASK NUMBER.
@@ -43,3 +56,7 @@ ASSIGN ONLY 1 PERSON TO SUBMIT.
 - Participant are required to submit a Google form (you need to find where is the Google Form) consisting of
   > - All hints gathered from Stage 1
   > - Spectrum Upload Screenshot (as prove of completing first stage)
+
+## NOTE :
+
+Please join back the General tab in Microsoft Teams after the submission is done before the closing ceremony.
