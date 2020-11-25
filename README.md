@@ -34,8 +34,8 @@ Code.EE is a one-day coding event organized by MESA which aimed to bring a brand
 - Each question will provide a mystery alphabet which will be needed in stage 2.
 
 NOTE FOR PROGRAMMING 1 STUDENTS: 
-- Students registered for Programming 1 are required to submit all codes (zip file) to Spectrum/Email
-- CREATE A PROJECT FOR EACH TASK AND UPLOAD TO SPECTRUM. NAME EACH FILE BY GROUP NAME AND TASK NUMBER.
+- Students registered for Programming 1 are required to submit all codes (zip file) to Spectrum
+- CREATE A PROJECT FOR EACH TASK AND UPLOAD TO SPECTRUM. NAME EACH FILE BY GROUP NUMBER AND TASK NUMBER.
 - FOR EG: GROUP1-TASK1, GROUP1-TASK2, GROUP1-TASK3, GROUP1-TASK4, GROUP1-TASK5.
 - ASSIGN ONLY 1 PERSON TO SUBMIT.
 
