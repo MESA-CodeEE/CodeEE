@@ -12,7 +12,7 @@ Code.EE is a one-day coding event organized by MESA which aimed to bring a brand
 
 1030am  : “Journey into Software Engineering and Google” by Jecelyn
 
-11am    :Competition briefing
+11am    : Competition briefing
 
 1115am  : Competition starts
 
@@ -57,7 +57,7 @@ NOTE FOR PROGRAMMING 1 STUDENTS:
 |  9  |   j    |  B1  | 19  |   t    |  C2  | 29  |   ?    |  D3  |
 |     |        |      |     |        |      | 30  |        |  D4  |
 
-30 = D4 = spacebar
+30 = D4 = spacebar/whitespace character
 
 ### Stage 2
 
