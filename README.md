@@ -4,25 +4,26 @@ Code.EE is a one-day coding event organized by MESA which aimed to bring a brand
 
 ## Agenda:
 
-9 am    : Event start / Join Microsoft Teams
+9.00am 	: Event start / Join Microsoft Teams
 
-9.15am  : Opening Ceremony
+9.15am 	: Opening Ceremony
 
-930am   : “The Cloud, the edge and the data” by Annie and Mei Yan
+9.30am 	: “The Cloud, the edge and the data” by Annie and Mei Yan
 
-1030am  : “Journey into Software Engineering and Google” by Jecelyn
+10.30am 	: “From pasar to Google - My journey in software engineering” by Jecelyn
 
-11am    : Competition briefing
+11.00am 	: Competition briefing
 
-1115am  : Competition starts
+11.15am	: Competition starts
 
-1pm     : Lunch
+1.00pm 	: Lunch
 
-315pm   : Competition Ends
+3.15pm	: Competition Ends
 
-320pm   : Judging session
+3.20pm 	: Judging session
 
-430pm   : Closing Ceremony
+4.30pm 	: Closing Ceremony
+
 
 
 ## Competition Instructions:
